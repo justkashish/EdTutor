@@ -3,7 +3,7 @@ import { Phone, Mail, MessageSquare } from "lucide-react";
 import "./Contact.css";
 
 const Contact = () => {
-  const whatsappNumber = "1234567890";
+  const whatsappNumber = "9870567890";
   const whatsappMessage = encodeURIComponent(
     "Hi! I'm interested in learning more about EdTutor's services."
   );
@@ -49,7 +49,7 @@ const Contact = () => {
               <div className="contact-info">
                 <div className="info-item">
                   <Phone size={20} />
-                  <span>+1 234 567 890</span>
+                  <span> 9874 567 890</span>
                 </div>
               </div>
 
